@@ -1,0 +1,19 @@
+{
+  "name": "dist-bn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist-bn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreedhar-hegde/dist-bn.git"
+  },
+  "author": "Shreedhar Hegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreedhar-hegde/dist-bn/issues"
+  },
+  "homepage": "https://github.com/shreedhar-hegde/dist-bn#readme"
+}
