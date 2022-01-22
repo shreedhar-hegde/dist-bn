@@ -1,7 +1,7 @@
 {
   "name": "dist-bn",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Package to calculate distance between two words by position of their occurence",
   "main": "dist-bn.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
