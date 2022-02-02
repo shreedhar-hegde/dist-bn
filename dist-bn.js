@@ -92,7 +92,7 @@ console.log(
 
 console.log(
   `Distance between '${word2}' and '${word1}' is`,
-  distBn(sentence1, word2, 1, word1, 1) + " words"
+  distBn(sentence1, word2, 1, word1, 1) + " words."
 );
 
 const sentence2 =
